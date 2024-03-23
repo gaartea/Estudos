@@ -1,3 +1,5 @@
+# identificando tipos de variaveis
+
 msg = input("Digite algo: ")
 
 print ("O tipo primitivo desse valor é ", type(msg))

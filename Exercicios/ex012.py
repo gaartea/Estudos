@@ -1,4 +1,4 @@
-''' ler preco de protudo e mostre seu novo preco com 5% de desconto '''
+#ler preco de protudo e mostre seu novo preco com 5% de desconto
 
 produto = float(input("Qual o preço do produto? "))
 
